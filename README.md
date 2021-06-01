@@ -21,4 +21,4 @@ git clone https://github.com/akv3n0m/Cloner.git
 
 cd Cloner
 
-python2 venom.Py
+python2 venom.py
